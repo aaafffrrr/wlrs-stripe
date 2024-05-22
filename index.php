@@ -6,8 +6,8 @@ if($_SERVER['SERVER_PORT'] == 80){
     die();
 }
 
-$key_publishable    = '';
-$key_secret         = '';
+$key_publishable    = 'pk_test_51IBrFmCKUTYIL9IlhZgT4teYIyELwBZ1oj1Gs6hCSb5l1rZsIsmge1hBQNCtI1RMQIvaoXCgcxAD5h497BAVvu5200s62b7qe4';
+$key_secret         = 'sk_test_51IBrFmCKUTYIL9IlrEFRQTEqZp7ytuewDWd9IeyV6tVwgpFe26S5BvERCic4xedCrHtq5P3TBjtCKADn5hrpmIla00vJqAKDYb';
 $note_prefix        = 'Terminal'; //this will be used in the charge's description
 $title              = 'Terminal';
 $currency           = 'usd';
